@@ -1,0 +1,28 @@
+h2{
+    font-family: cursive;
+}
+h1{
+    font-family: fantasy;
+}
+.color-text{
+    color: #ec6778;
+    
+}
+.dark-text{
+    color: #f6cde6;
+}
+.light-text{
+    color:#fcd2a8;
+}
+.first-part{
+    background-color: #0277bd;
+    margin: 20px;
+}
+.second-part{
+    background-color: #00acc1;
+    margin: 20px;
+    margin-top: 20px;
+}
+body{
+    background-color: #b3e5fc;
+}
